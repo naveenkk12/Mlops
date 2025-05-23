@@ -1,0 +1,11 @@
+stuent Name: Ram kumar
+Class: 10th
+
+Subject:Maths
+Grade:A
+Subject:Science
+Grade:A
+Subject:English
+Grade:A
+
+
