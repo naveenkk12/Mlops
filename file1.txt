@@ -1,9 +1,0 @@
-This is my test file
-<<<<<<< HEAD
-This is second line
-ksdkdajkdsljjdfdjfjfjdksjkf
-sjdhjkadsfjdfdljfjfadjkfjdf
-=======
-This is second line for file
-kffdhfjdhfjahfjdkffjjdfjk
->>>>>>> 1629b9bcb16c5d875f116a4212e1c92f7587e6a2
